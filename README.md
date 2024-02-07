@@ -33,15 +33,19 @@ Quote is an Android application designed to uplift your spirits and inspire you 
 ## Screenshots
 userSignUp:
 ![user_sign_up](https://github.com/KOMAR-7/Quote-Today/assets/93786121/f15a6080-9247-4c6c-8bb0-c4b80b6683f2) 
+-----------------------------
 userLogin:
 ![userLogin](https://github.com/KOMAR-7/Quote-Today/assets/93786121/53cd9808-5419-4db1-aaf0-e5e6274c4e37)  
+-----------------------------
 quoteDisplay and quoteUnLike:
 ![quote_unlike](https://github.com/KOMAR-7/Quote-Today/assets/93786121/a1a6fcf5-7c9e-4cc6-8718-6fa5f1236df1) 
+-----------------------------
 quoteLike:
 ![quote_like](https://github.com/KOMAR-7/Quote-Today/assets/93786121/9b89b9d6-f1a7-4cfe-98c1-fea0e544576c) 
+-----------------------------
 favoriteList:
 ![favourite_list](https://github.com/KOMAR-7/Quote-Today/assets/93786121/22c434ef-7f0e-484f-af5c-51129b0ddcfb) 
-
+-----------------------------
 
 
 
